@@ -1,2 +1,2 @@
-# game_Life
+# game_Life 1d
 игра жизнь
